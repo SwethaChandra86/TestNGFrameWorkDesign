@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Tekarch App Test Suite" duration-ms="32226" started-at="2021-02-17T21:40:19 EST" finished-at="2021-02-17T21:40:51 EST">
+    <groups>
+    </groups>
+    <test name="TekArch TestCases" duration-ms="32226" started-at="2021-02-17T21:40:19 EST" finished-at="2021-02-17T21:40:51 EST">
+      <class name="com.qa.TestCases.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.TestCases.LoginTest@60285225]" name="setUp" is-config="true" duration-ms="3793" started-at="2021-02-17T21:40:19 EST" finished-at="2021-02-17T21:40:23 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.qa.TestCases.LoginTest@60285225]" name="loginPageTitleTest" duration-ms="10" started-at="2021-02-17T21:40:23 EST" finished-at="2021-02-17T21:40:23 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.TestCases.LoginTest@60285225]" name="tearDown" is-config="true" duration-ms="678" started-at="2021-02-17T21:40:23 EST" finished-at="2021-02-17T21:40:24 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.TestCases.LoginTest@60285225]" name="setUp" is-config="true" duration-ms="2236" started-at="2021-02-17T21:40:24 EST" finished-at="2021-02-17T21:40:26 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginToApp()[pri:2, instance:com.qa.TestCases.LoginTest@60285225]" name="loginToApp" duration-ms="229" started-at="2021-02-17T21:40:26 EST" finished-at="2021-02-17T21:40:26 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.TestCases.LoginTest@60285225]" name="tearDown" is-config="true" duration-ms="688" started-at="2021-02-17T21:40:26 EST" finished-at="2021-02-17T21:40:27 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.TestCases.LoginTest -->
+      <class name="com.qa.TestCases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.TestCases.HomePageTest@7113b13f]" name="setUp" is-config="true" duration-ms="2459" started-at="2021-02-17T21:40:27 EST" finished-at="2021-02-17T21:40:29 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyHomePageHeader()[pri:1, instance:com.qa.TestCases.HomePageTest@7113b13f]" name="verifyHomePageHeader" duration-ms="5" started-at="2021-02-17T21:40:29 EST" finished-at="2021-02-17T21:40:29 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageHeader -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.TestCases.HomePageTest@7113b13f]" name="tearDown" is-config="true" duration-ms="624" started-at="2021-02-17T21:40:29 EST" finished-at="2021-02-17T21:40:30 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.TestCases.HomePageTest@7113b13f]" name="setUp" is-config="true" duration-ms="2448" started-at="2021-02-17T21:40:30 EST" finished-at="2021-02-17T21:40:32 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickCalculatorLink()[pri:2, instance:com.qa.TestCases.HomePageTest@7113b13f]" name="clickCalculatorLink" duration-ms="457" started-at="2021-02-17T21:40:32 EST" finished-at="2021-02-17T21:40:33 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickCalculatorLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.TestCases.HomePageTest@7113b13f]" name="tearDown" is-config="true" duration-ms="642" started-at="2021-02-17T21:40:33 EST" finished-at="2021-02-17T21:40:33 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.TestCases.HomePageTest@7113b13f]" name="setUp" is-config="true" duration-ms="2421" started-at="2021-02-17T21:40:34 EST" finished-at="2021-02-17T21:40:36 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateNewStudent(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.qa.TestCases.HomePageTest@7113b13f]" name="validateNewStudent" duration-ms="1281" started-at="2021-02-17T21:40:36 EST" data-provider="testDataProvider" finished-at="2021-02-17T21:40:38 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Swetha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Nagaraj]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Bangalore]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Shivamogga]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[GOA]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[B.TECH]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[MUMBAI]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[PATNA]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[56778.0]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[swe@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateNewStudent -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.TestCases.HomePageTest@7113b13f]" name="tearDown" is-config="true" duration-ms="645" started-at="2021-02-17T21:40:38 EST" finished-at="2021-02-17T21:40:38 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.TestCases.HomePageTest@7113b13f]" name="setUp" is-config="true" duration-ms="2464" started-at="2021-02-17T21:40:38 EST" finished-at="2021-02-17T21:40:41 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateNewStudent(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.qa.TestCases.HomePageTest@7113b13f]" name="validateNewStudent" duration-ms="1347" started-at="2021-02-17T21:40:41 EST" data-provider="testDataProvider" finished-at="2021-02-17T21:40:42 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chandra]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kengatte]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Bangalore]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Shivamogga]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[GOA]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[B.TECH]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[MUMBAI]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[PATNA]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[56779.0]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[cha@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateNewStudent -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.TestCases.HomePageTest@7113b13f]" name="tearDown" is-config="true" duration-ms="647" started-at="2021-02-17T21:40:42 EST" finished-at="2021-02-17T21:40:43 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.TestCases.HomePageTest@7113b13f]" name="setUp" is-config="true" duration-ms="2441" started-at="2021-02-17T21:40:43 EST" finished-at="2021-02-17T21:40:45 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateNewStudent(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.qa.TestCases.HomePageTest@7113b13f]" name="validateNewStudent" duration-ms="1188" started-at="2021-02-17T21:40:45 EST" data-provider="testDataProvider" finished-at="2021-02-17T21:40:46 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ahan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kengatte]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Bangalore]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Shivamogga]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[NEW DELHI]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[B.TECH]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[MUMBAI]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[PATNA]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[23456.0]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[ahan@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateNewStudent -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.TestCases.HomePageTest@7113b13f]" name="tearDown" is-config="true" duration-ms="617" started-at="2021-02-17T21:40:46 EST" finished-at="2021-02-17T21:40:47 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.TestCases.HomePageTest@7113b13f]" name="setUp" is-config="true" duration-ms="2414" started-at="2021-02-17T21:40:47 EST" finished-at="2021-02-17T21:40:49 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateNewStudent(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.qa.TestCases.HomePageTest@7113b13f]" name="validateNewStudent" duration-ms="1347" started-at="2021-02-17T21:40:49 EST" data-provider="testDataProvider" finished-at="2021-02-17T21:40:51 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Aarna]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kengatte]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Bangalore]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Shivamogga]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[NEW DELHI]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[B.TECH]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[MUMBAI]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[PATNA]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[45424.0]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[aaru@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateNewStudent -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.TestCases.HomePageTest@7113b13f]" name="tearDown" is-config="true" duration-ms="632" started-at="2021-02-17T21:40:51 EST" finished-at="2021-02-17T21:40:51 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.TestCases.HomePageTest -->
+    </test> <!-- TekArch TestCases -->
+  </suite> <!-- Tekarch App Test Suite -->
+</testng-results>
